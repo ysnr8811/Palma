@@ -1,6 +1,6 @@
 # Palmaのwebサイトを作りたい
 
-rubyとrailsを使って作る
+PHP ruby python とかで作ってみたい
 
 # 実装済
 
